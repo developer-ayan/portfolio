@@ -18,7 +18,7 @@ export default function Skills() {
         
         // Initial terminal welcome sequence
         addTerminalLog("system", "Initializing full-stack terminal...");
-        setTimeout(() => addTerminalLog("success", "Connection established with Bilal Khan's skill repository."), 500);
+        setTimeout(() => addTerminalLog("success", "Connection established with Ayan Ahmed's skill repository."), 500);
         setTimeout(() => addTerminalLog("info", "Execute commands by clicking on categories below or on the floating nodes."), 1000);
         setTimeout(() => triggerTerminalCommand("Frontend", jsonData.skills["Frontend"]), 1500);
       } catch (err) {
@@ -88,7 +88,7 @@ export default function Skills() {
                 <span className="dot dot-yellow"></span>
                 <span className="dot dot-green"></span>
               </div>
-              <span className="terminal-title">bilal_khan@fullstack_terminal:~</span>
+              <span className="terminal-title">ayan_ahmed@mern_terminal:~</span>
             </div>
             <div className="terminal-body">
               {terminalLogs.map((log, idx) => (

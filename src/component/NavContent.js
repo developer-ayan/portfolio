@@ -22,15 +22,20 @@ export default function NavContent() {
             <Link to="/experience">Work</Link>
           </li>
           <li>
-            <a href="https://www.linkedin.com/in/bilal-khan-32853a1bb/" rel="noreferrer" target="_blank">
+            <a href="https://www.linkedin.com/in/ayan-ahmed-998b0821a" rel="noreferrer" target="_blank">
               LinkedIn
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/developer-ayan" rel="noreferrer" target="_blank">
+              GitHub
             </a>
           </li>
           <li>
             <Link to="/skills">Skills</Link>
           </li>
           <li>
-            <a href="mailto:bilalkhan.work786@gmail.com">Contact Me</a>
+            <a href="mailto:ayan.ali25508@gmail.com">Contact Me</a>
           </li>
         </ul>
       </div>

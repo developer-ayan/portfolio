@@ -1,78 +1,50 @@
 {
   "profile": {
-    "name": "Muhammad Bilal Khan",
-    "title": "Senior Full-Stack Engineer | React & Scalable Systems Specialist",
-    "summary": "Performance-driven Senior Full-Stack Engineer with over 7.5 years of comprehensive experience engineering resilient web architectures, enterprise integration channels, and native mobile ecosystems. Expert across the full engineering lifecycle—spanning robust enterprise backends (C#/.NET, Golang, Node.js), optimized relational databases (SQL Server, PostgreSQL), and advanced cross-platform frontends (React, React Native, Swift). Proven track record of designing secure, modular systems, automating enterprise workflows (Dynamics 365, Power Platform), and developing specialized sales channel extensions within the Shopify ecosystem. Focused on high-throughput performance, code quality, and driving engineering strategies across complex technical environments."
+    "name": "Ayan Ahmed",
+    "title": "MERN Stack Developer | React Native Specialist",
+    "summary": "Motivated MERN Stack Developer with a strong background in React Native, React JS, and Node.js. Robust problem-solver with experience shipping mobile apps, websites, and admin panels from scratch, including full API integration. Skilled in project management and team leadership, having trained interns and led semester projects. Focused on continuous learning and growth across software, app, and web development."
   },
   "experiences": [
     {
-      "role": "Software Engineer (Backend Systems & Integrations)",
-      "company": "Santex Pvt. Ltd.",
-      "period": "Sept 2024 – Present",
+      "role": "MERN Stack Developer",
+      "company": "ITSec (Pvt.) Ltd",
+      "period": "Oct 2022 – Present",
       "points": [
-        "Developed and maintained Shopify sales channel applications for merchant onboarding and product synchronization.",
-        "Built and managed Node.js and Go-based backend servers across multiple environments ensuring reliability and performance.",
-        "Integrated Microsoft Dynamics 365, SharePoint, Power Platform and Workato for enterprise workflow automation.",
-        "Oversaw full-stack lifecycle management from architecture to production monitoring.",
-        "Collaborated with cross-functional teams to deliver scalable and secure solutions."
+        "Joined as a mid-level React Native developer and was later re-hired and promoted by my supervisor based on demonstrated skills.",
+        "Expanded into Node.js development, strengthening full-stack development capabilities."
       ]
     },
     {
-      "role": "Senior MERN Stack Developer",
-      "company": "Mac World Technology",
-      "period": "Feb 2024 – Aug 2024",
+      "role": "React Native Developer",
+      "company": "DeviceBee Technologies",
+      "period": "Mar 2023 – Jul 2023",
       "points": [
-        "Led development of scalable React and Node.js applications.",
-        "Designed responsive UI using Ant Design and Material-UI (MUI).",
-        "Implemented Redux and Context API for centralized state management.",
-        "Architected scalable application structures and database schemas.",
-        "Mentored developers and conducted code reviews to improve standards.",
-        "Collaborated with designers and stakeholders to build interactive UI experiences."
+        "Worked as a remote React Native developer, building 2 mobile apps from scratch including full API integration.",
+        "Both apps were published and uploaded to the Google Play Store."
       ]
     },
     {
-      "role": "Mid-Level MERN Stack Developer",
-      "company": "Slickwhiz Solutions",
-      "period": "Feb 2022 – Jan 2024",
+      "role": "React Native Developer",
+      "company": "Sas Solution",
+      "period": "Nov 2021 – Oct 2022",
       "points": [
-        "Developed modular React components ensuring scalable and reusable UI architecture.",
-        "Built responsive dashboards using Ant Design and Material-UI.",
-        "Managed application states using Redux and Context API.",
-        "Integrated REST APIs and optimized frontend performance.",
-        "Developed SharePoint sites and implemented Power Apps and Power Automate workflows.",
-        "Implemented backend testing using Jest to improve reliability.",
-        "Collaborated directly with clients to deliver tailored business solutions."
+        "Worked as a React Native developer and trained interns on the team.",
+        "Estimated project timelines for clients and consistently delivered every project 5 days ahead of deadline."
       ]
     },
     {
-      "role": "Junior Mobile App Developer",
-      "company": "Regex Dot Global",
-      "period": "June 2021 – Jan 2022",
+      "role": "React Native & React JS Developer",
+      "company": "Fiverr & Upwork (Freelance)",
+      "period": "Jan 2021 – Present",
       "points": [
-        "Practiced Android Native Development (Java) and UI implementation principles.",
-        "Developed advanced web applications using robust Vanilla JavaScript (ES6+), leveraging a strong understanding of the Document Object Model (DOM) to successfully transition into building scalable components in React and cross-platform mobile apps in React Native.",
-        "Engineered native iOS mobile applications utilizing Swift, implementing smooth user interfaces and integrating clean backend API functionalities."
-      ]
-    },
-    {
-      "role": "Intermediate Software Developer / Software Development Intern",
-      "company": "K-Technologies",
-      "period": "Feb 2018 – May 2021",
-      "points": [
-        "Designed, developed, and maintained robust, scalable enterprise web applications and RESTful APIs using C#, .NET Core / .NET Framework, and MVC architecture, improving database response times by 25%.",
-        "Authored complex SQL queries, stored procedures, indexes, and views in SQL Server, ensuring data integrity while optimizing long-running transactional scripts to prevent server deadlocks.",
-        "Implemented advanced asynchronous programming (async/await) and generic repositories using LINQ and Entity Framework Core to manage data transfer layers efficiently.",
-        "Developed and engineered background worker services and Windows Forms/WPF applications utilizing modern C# multi-threading protocols to automate manual client workflows and data processing."
+        "Delivered freelance projects since 2021, building mobile apps, websites, and admin panels for clients worldwide.",
+        "Handled full-stack delivery including Node.js backend development."
       ]
     }
   ],
   "skills": {
-    "Frontend": ["React.js", "Next.js", "Vue.js", "JavaScript (ES6+)", "DOM Manipulation", "Ant Design", "Material-UI (MUI)", "Redux", "Context API", "Responsive UI Development"],
-    "Backend": ["Golang (Go)", "Node.js", "Express.js", ".NET (C#)", "REST API Development", "Jest (Backend Testing)"],
-    "Mobile Development": ["React Native", "Swift (iOS)", "Java (Android)", "Cross-Platform Development"],
-    "Databases": ["MongoDB", "SQL Server", "MySQL", "PostgreSQL", "Firebase", "Microsoft Dataverse"],
-    "Cloud & Integrations": ["Office 365", "SharePoint", "Dynamics 365", "Workato", "Azure AD"],
-    "Infrastructure": ["Docker", "NGINX", "Linux Server Management"],
-    "DevOps & VCS": ["Git", "Shell Scripting", "Deployment Automation"]
+    "Frontend": ["React JS", "JavaScript (ES6+)", "EcmaScript", "HTML/CSS"],
+    "Mobile Development": ["React Native", "NativeBase", "Cross-Platform Development", "API Integration"],
+    "Backend": ["Node.js", "MERN Stack", "REST API Development"]
   }
 }

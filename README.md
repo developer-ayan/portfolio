@@ -1,8 +1,6 @@
-# 🚀 Muhammad Bilal Khan | Senior Full-Stack Engineer
+# 🚀 Ayan Ahmed | MERN Stack Developer
 
 Welcome to the repository of my interactive developer portfolio website. This project is a modern, responsive single-page application built with React, showcasing my credentials, work timeline, and technical expertise through retro-futuristic styling and animations.
-
-🌐 **Live Demo:** [https://portfoliobilalmkhan.netlify.app/](https://portfoliobilalmkhan.netlify.app/)
 
 ---
 
@@ -39,7 +37,7 @@ Make sure you have **Node.js** (v16+) and **npm** installed on your system.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/geragt280/portfolio.git
+   git clone https://github.com/developer-ayan/portfolio.git
    cd portfolio
    ```
 
@@ -62,5 +60,6 @@ Compiles and bundles the application into optimized static assets inside the `bu
 
 ## 📬 Contact & Connections
 
-- **Email**: [bilalkhan.work786@gmail.com](mailto:bilalkhan.work786@gmail.com)
-- **LinkedIn**: [linkedin.com/in/bilal-khan-32853a1bb/](https://www.linkedin.com/in/bilal-khan-32853a1bb/)
+- **Email**: [ayan.ali25508@gmail.com](mailto:ayan.ali25508@gmail.com)
+- **LinkedIn**: [linkedin.com/in/ayan-ahmed-998b0821a](https://www.linkedin.com/in/ayan-ahmed-998b0821a)
+- **GitHub**: [github.com/developer-ayan](https://github.com/developer-ayan)

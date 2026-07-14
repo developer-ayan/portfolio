@@ -6,17 +6,17 @@ export default function PersonalDetails() {
   return (
     <div className="active_comp">
       <div>
-        <p className="headingName">Muhammad Bilal Khan</p>
-        <p className="headingProfession">Senior Full-Stack Engineer</p>
+        <p className="headingName">Ayan Ahmed</p>
+        <p className="headingProfession">MERN Stack Developer</p>
         <p className="descriptionText">
-          Performance-driven Senior Full-Stack Engineer with over 7.5 years of comprehensive experience engineering resilient web architectures, enterprise backends, and mobile systems. Specializing in React, Node.js, Golang, and .NET (C#).
+          Motivated MERN Stack Developer specializing in React Native, React JS, and Node.js. Experienced building mobile apps, websites, and admin panels from scratch, with a track record of on-time delivery and team leadership.
         </p>
       </div>
       <div className="informationButtonsContainer">
         <span>
           <div className="sideHorizontalLine"></div>
           <p>
-            <a href="./files/MuhammadBilalKhanCV.pdf" download>
+            <a href="./files/AyanAhmedCV.pdf" download>
               Download CV
             </a>
           </p>
