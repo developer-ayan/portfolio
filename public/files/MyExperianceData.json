@@ -42,9 +42,73 @@
       ]
     }
   ],
-  "skills": {
-    "Frontend": ["React JS", "JavaScript (ES6+)", "EcmaScript", "HTML/CSS"],
-    "Mobile Development": ["React Native", "NativeBase", "Cross-Platform Development", "API Integration"],
-    "Backend": ["Node.js", "MERN Stack", "REST API Development"]
+  "skills":  {
+    "Frontend": [
+      "React.js",
+      "JavaScript (ES6+)",
+      "TypeScript",
+      "ECMAScript",
+      "HTML5",
+      "CSS3",
+      "Responsive Design",
+      "Redux Toolkit",
+      "Context API",
+      "React Hooks",
+      "React Router",
+      "Tailwind CSS",
+      "Bootstrap",
+      "Material UI"
+    ],
+    "Mobile Development": [
+      "React Native",
+      "Expo",
+      "NativeBase",
+      "React Navigation",
+      "Cross-Platform Development",
+      "REST API Integration",
+      "Firebase",
+      "Push Notifications",
+      "Deep Linking",
+      "App Store Deployment",
+      "Google Play Store Deployment",
+      "AsyncStorage",
+      "Performance Optimization"
+    ],
+    "Backend": [
+      "Node.js",
+      "Express.js",
+      "MERN Stack",
+      "REST API Development",
+      "JWT Authentication",
+      "Socket.io",
+      "Cloudinary",
+      "File Uploads"
+    ],
+    "Database": [
+      "MongoDB",
+      "Mongoose",
+      "SQL",
+      "PostgreSQL",
+      "NoSQL",
+      "Supabase",
+      "Firebase Firestore"
+    ],
+    "State Management": [
+      "Redux",
+      "Redux Toolkit",
+      "Context API"
+    ],
+    "Tools & Technologies": [
+      "Git",
+      "GitHub",
+      "VS Code",
+      "Postman",
+      "Axios",
+      "Android Studio",
+      "Xcode",
+      "npm",
+      "Yarn",
+      "Figma"
+    ]
   }
 }
