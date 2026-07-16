@@ -6,6 +6,7 @@ import ErrorPage from "./screens/Error";
 import { Home } from "./screens/Home";
 import Experiance from "./screens/Experiance";
 import Skills from "./screens/Skills";
+import Projects from "./screens/Projects";
 
 const router = createBrowserRouter([
   {
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
       {
         path: "/skills",
         element: <Skills />,
+      },
+      {
+        path: "/projects",
+        element: <Projects />,
       },
     ],
   },

@@ -35,6 +35,9 @@ export default function NavContent() {
             <Link to="/skills">Skills</Link>
           </li>
           <li>
+            <Link to="/projects">Portfolio</Link>
+          </li>
+          <li>
             <a href="mailto:ayan.ali25508@gmail.com">Contact Me</a>
           </li>
         </ul>

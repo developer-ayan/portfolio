@@ -1,0 +1,61 @@
+{
+  "projects": [
+    {
+      "title": "Dalfa Pak",
+      "image": "https://ahtechnos.com/assets/img/dalfa_app.jpg",
+      "isMobileApp": true,
+      "androidLink": "https://play.google.com/store/apps/details?id=com.dalfa&pcampaignid=web_share",
+      "iosLink": ""
+    },
+    {
+      "title": "PCO Portfolio Website",
+      "image": "https://ahtechnos.com/assets/img/PCO.Link%20Portfolio%20post%20%281%29.jpg",
+      "isMobileApp": false,
+      "websiteLink": "https://www.pcolink.co.uk/"
+    },
+    {
+      "title": "Frontpay",
+      "image": "https://ahtechnos.com/assets/img/frontpay_app.jpg",
+      "isMobileApp": true,
+      "androidLink": "https://play.google.com/store/apps/details?id=com.frontpay.dashboard",
+      "iosLink": ""
+    },
+    {
+      "title": "QuitClaim Web App",
+      "image": "https://ahtechnos.com/assets/img/Quitclaim.jpg",
+      "isMobileApp": false,
+      "websiteLink": "https://abdullahad123.github.io/QuitclaimFrontend/html/"
+    },
+    {
+      "title": "Areawide Waterproofing",
+      "image": "https://ahtechnos.com/assets/img/areawide_app.jpg",
+      "isMobileApp": false,
+      "websiteLink": ""
+    },
+    {
+      "title": "Giveaway E-commerce",
+      "image": "https://ahtechnos.com/assets/img/giveaway_app.jpg",
+      "isMobileApp": true,
+      "androidLink": "https://play.google.com/store/apps/details?id=com.app.giveaway",
+      "iosLink": ""
+    },
+    {
+      "title": "TutorsElevenPlus",
+      "image": "https://ahtechnos.com/assets/img/tutorselevenplus.jpg",
+      "isMobileApp": false,
+      "websiteLink": "https://tutorselevenplus.com/"
+    },
+    {
+      "title": "Trolleymate",
+      "image": "https://ahtechnos.com/assets/img/Trolleymate.jpg",
+      "isMobileApp": false,
+      "websiteLink": "https://trolleymate.co.uk/"
+    },
+    {
+      "title": "Oneli Builders",
+      "image": "https://ahtechnos.com/assets/img/Oneli-Builders.jpg",
+      "isMobileApp": false,
+      "websiteLink": "https://oneli.capitaltechnologies.co.uk/"
+    }
+  ]
+}
